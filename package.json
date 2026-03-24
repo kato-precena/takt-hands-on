@@ -1,0 +1,19 @@
+{
+  "name": "takt-hands-on",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@precena.github.com/kato-precena/takt-hands-on.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "takt": "^0.33.0"
+  }
+}
